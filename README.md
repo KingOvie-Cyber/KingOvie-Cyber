@@ -1,16 +1,81 @@
-## Hi there 👋
+# Emezana Ogheneovie — SOC Analyst & Blue Team Engineer
 
-<!--
-**KingOvie-Cyber/KingOvie-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications
 
-Here are some ideas to get you started:
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-006400?style=for-the-badge&logo=isc2&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-Information_Security_Management-0052CC?style=for-the-badge&logo=iso&logoColor=white)
+![Mastermind Assurance](https://img.shields.io/badge/Mastermind_Assurance-ISO_27001_Certified-black?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+SOC Analyst and Blue Team Engineer with 2+ years of hands-on experience
+in threat detection, incident response, and security operations. I designed
+and built a production Security Operations Centre (SOC) from the ground up
+at Mastermind Assurance — currently live and actively monitoring endpoints
+across a real environment.
+
+This GitHub documents that work as it happens. Every repo and update here
+reflects something running in production, not a lab exercise.
+
+---
+
+## What I Built
+
+- **Production SOC** — designed the full architecture, deployed the tooling,
+  and currently operate it day to day at Mastermind Assurance
+- **Splunk SIEM** — deployed on Docker (Rocky Linux), ingesting Windows
+  Security, System, and Sysmon logs from multiple endpoints
+- **Sysmon Deployment** — configured and tuned across Windows endpoints
+  with custom detection rules mapped to MITRE ATT&CK
+- **Log Forwarding Pipeline** — Universal Forwarder → Splunk indexer,
+  with field extraction and index separation per data source
+- **Vulnerability Management** — active scanning with Nessus and OpenVAS
+
+---
+
+## Current Stack
+
+| Category | Tools |
+|---|---|
+| SIEM | Splunk Enterprise |
+| Endpoint Telemetry | Sysmon, Windows Event Logs |
+| Vulnerability Scanning | Nessus, OpenVAS |
+| Infrastructure | Docker, Rocky Linux |
+| Detection Framework | MITRE ATT&CK |
+
+---
+
+## Tools & Technologies
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logo=tenable&logoColor=white)
+
+---
+
+## What's Being Documented
+
+This portfolio is updated daily as the SOC evolves. Current focus:
+
+- Sysmon EventCode detection use cases (network connections, process
+  creation, registry changes)
+- Splunk dashboard development for SOC monitoring
+- Deployment Server configuration and endpoint management
+- Incident response runbooks
+- Vulnerability assessment reports
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+
+---
+
+*All work documented here reflects a live production environment.*
+
+[![ISC2 CC](https://img.shields.io/badge/...)]([https://www.credly.com/your-badge-link](https://www.credly.com/badges/2f709b56-7adf-43a9-b7eb-eb1523859114/public_url))
