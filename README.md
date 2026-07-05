@@ -72,10 +72,18 @@ This portfolio is updated daily as the SOC evolves. Current focus:
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogheneovie-emezana)
 
 ---
 
 *All work documented here reflects a live production environment.*
 
-[![ISC2 CC](https://img.shields.io/badge/...)]([https://www.credly.com/your-badge-link](https://www.credly.com/badges/2f709b56-7adf-43a9-b7eb-eb1523859114/public_url))
+## Certifications
+
+<a href="https://www.credly.com/badges/2f709b56-7adf-43a9-b7eb-eb1523859114/public_url">
+  <img src="https://images.credly.com/images/2859c37a-015b-40a6-b570-4bdd7e849b05/linkedin_thumb_image.png" alt="Certified in Cybersecurity (CC)" width="150">
+</a>
+<a href="https://www.credly.com/badges/805b6511-22f0-4c75-a7b7-29de8afdeaa1/public_url">
+  <img src="https://images.credly.com/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/linkedin_thumb_blob" alt="ISO/IEC 27001:2022 Lead Auditor" width="150">
+</a>
+
