@@ -23,8 +23,7 @@ reflects something running in production, not a lab exercise.
 
 ## What I Built
 
-- **Production SOC** — designed the full architecture, deployed the tooling,
-  and currently operate it day to day at Mastermind Assurance
+- **Production SOC** — I designed and built a production Security Operations Centre (SOC) from the ground up at my current organization — currently live and actively monitoring endpoints across a real environment.
 - **Splunk SIEM** — deployed on Docker (Rocky Linux), ingesting Windows
   Security, System, and Sysmon logs from multiple endpoints
 - **Sysmon Deployment** — configured and tuned across Windows endpoints
