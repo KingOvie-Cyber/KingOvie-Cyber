@@ -2,8 +2,10 @@
 
 ## Certifications
 
-![ISC2 CC](https://img.shields.io/badge/ISC2_CC-Certified_in_Cybersecurity-black?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-Lead_Auditor-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-Green)
+![Static Badge](https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-8B7FC4)
+![Static Badge](https://img.shields.io/badge/Mastermind%20Assurance-ISO%2027001%20Certified-8B7FC4)
+![Static Badge](https://img.shields.io/badge/Linux%20100%20Fundamentals-TCM%20Security-E31C5F)
 
 ---
 
