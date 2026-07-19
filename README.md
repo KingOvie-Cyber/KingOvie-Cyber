@@ -2,9 +2,8 @@
 
 ## Certifications
 
-TEST ![ISC2 CC](https://img.shields.io/badge/ISC2_CC-Certified_in_Cybersecurity-black?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-Lead_Auditor-black?style=for-the-badge)
-![Mastermind Assurance](https://img.shields.io/badge/Mastermind_Assurance-ISO_27001_Certified-black?style=for-the-badge)
+TEST![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-006400?style=for-the-badge&logo=isc2&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-Information_Security_Management-0052CC?style=for-the-badge&logo=iso&logoColor=white)
 
 ---
 
