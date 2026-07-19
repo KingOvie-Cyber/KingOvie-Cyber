@@ -6,6 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-8B7FC4)
 ![Static Badge](https://img.shields.io/badge/Mastermind%20Assurance-ISO%2027001%20Certified-8B7FC4)
 ![Static Badge](https://img.shields.io/badge/Linux%20100%20Fundamentals-TCM%20Security-E31C5F)
+![Static Badge](https://img.shields.io/badge/Introduction%20to%20PowerShell-Centri-1B5FAE)
+
 
 ---
 
